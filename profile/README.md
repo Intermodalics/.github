@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-🙋‍♀️ [Intermodalics](https://www.intermodalics.eu) is a Belgian company that creates robotics and perception software, from a single capability to fully autonomous systems.
+🙋‍♀️ [Intermodalics](https://www.intermodalics.ai) is a Belgian company that creates robotics and perception software, from a single capability to fully autonomous systems.
 Our customers are high-tech companies, startups and research institutes world-wide.
 
 👩‍💻 You will mainly find forks here of popular robotics software projects which we use for our customers or contribute improvements back to.
 
-🍿 We keep a ['Blog from software to robots'](https://www.intermodalics.eu/blog-on-robotic-software) which has a focus on the robotic hardware/software capabilities and applications and less on the command line/code snippets.
+🍿 We keep a ['Blog from software to robots'](https://www.intermodalics.ai/blog-on-robotic-software) which has a focus on the robotic hardware/software capabilities and applications and less on the command line/code snippets.
 
 <!--
 
